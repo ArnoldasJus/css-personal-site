@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Muli', sans-serif;
+  color: #1b262c;
+}
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Satisfy', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Muli', sans-serif;
+}
+
+.top-container {
+  background-color: #bbe1fa;
+  position: relative;
+  padding-top: 50px;
+  color: #1b262c;
+}
+
+.top-cloud {
+  position: relative;
+  left: 25%;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.profilePic {
+  border-radius: 50%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.iconCode {
+  float: left;
+  margin: 20px 40px 20px 0;
+}
+
+.iconDesign {
+  float: right;
+  margin: 20px 0 20px 40px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #0f4c75;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.btn {
+  border: 2px solid #3282b8;
+  background-color: #3282b8;
+  border-radius: 25px;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: white;
+  color: #1b262c;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #bbe1fa;
+}
+
+.copyright {
+  color: #bbe1fa;
+  font-size: 0.77rem;
+  padding: 20px 0;
+}
+
+.bottom-container {
+  background-color: #0f4c75;
+  color: white;
+  padding: 30px 0 10px;
+}
